@@ -1,9 +1,15 @@
-<img width="1024" height="230" alt="Captura de pantalla 2026-05-13 210719" src="https://github.com/user-attachments/assets/6a4a5e95-e2dd-41de-b1dd-040d813478e3" />
-<img width="1099" height="340" alt="Captura de pantalla 2026-05-13 210615" src="https://github.com/user-attachments/assets/fe859b6d-721c-4988-aaeb-fd2045f79cf3" />
-<img width="965" height="621" alt="Captura de pantalla 2026-05-13 210605" src="https://github.com/user-attachments/assets/dd35e173-b12f-4e25-baeb-c55706c1b4fb" />
-<img width="1078" height="269" alt="Captura de pantalla 2026-05-13 210558" src="https://github.com/user-attachments/assets/8b6e144d-0e88-4b51-91ea-213c0e75f453" />
-<img width="1354" height="431" alt="Captura de pantalla 2026-05-13 210541" src="https://github.com/user-attachments/assets/418ec3c1-229c-4c4c-a3db-beef8b73f8ce" />
-<img width="239" height="467" alt="Captura de pantalla 2026-05-13 210551" src="https://github.com/user-attachments/assets/c54cf8d4-11f9-45f6-96e6-3981088f89c0" />
+
+## ⚠️ Estado del Proyecto (Work in Progress)
+
+Este proyecto se encuentra actualmente en **fase de desarrollo**. Por lo tanto, es posible encontrar los siguientes detalles técnicos:
+
+* **Integración de IA:** El chatbot "Damián" cuenta con su lógica de personalidad, pero la integración con la API está aun en proceso.
+* **Navegación:** Algunos enlaces entre páginas pueden presentar errores `404` mientras finalizo el enrutamiento global.
+* **Persistencia:** La lógica de tareas y materias es funcional a través de `localStorage`.
+
+*¡Damián es audaz, pero aún está aprendiendo a conectar todos sus circuitos!*
+
+
 # Damián: Tu Asistente de Organización con Carácter
 
 > "¿Otra vez revisando el código en lugar de terminar esa tarea de Negocios? El examen no se va a aprobar solo. Mueve un dedo o asume las consecuencias." — **Damián**
@@ -54,4 +60,13 @@ El proyecto sigue una línea visual minimalista basada en:
 4. **Inicia el servidor de desarrollo:**
    
    npm run dev
+
+
+   <img width="1024" height="230" alt="Captura de pantalla 2026-05-13 210719" src="https://github.com/user-attachments/assets/6a4a5e95-e2dd-41de-b1dd-040d813478e3" />
+<img width="1099" height="340" alt="Captura de pantalla 2026-05-13 210615" src="https://github.com/user-attachments/assets/fe859b6d-721c-4988-aaeb-fd2045f79cf3" />
+<img width="965" height="621" alt="Captura de pantalla 2026-05-13 210605" src="https://github.com/user-attachments/assets/dd35e173-b12f-4e25-baeb-c55706c1b4fb" />
+<img width="1078" height="269" alt="Captura de pantalla 2026-05-13 210558" src="https://github.com/user-attachments/assets/8b6e144d-0e88-4b51-91ea-213c0e75f453" />
+<img width="1354" height="431" alt="Captura de pantalla 2026-05-13 210541" src="https://github.com/user-attachments/assets/418ec3c1-229c-4c4c-a3db-beef8b73f8ce" />
+<img width="239" height="467" alt="Captura de pantalla 2026-05-13 210551" src="https://github.com/user-attachments/assets/c54cf8d4-11f9-45f6-96e6-3981088f89c0" />
+
 
