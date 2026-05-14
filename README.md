@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+"¿Otra vez revisando el código en lugar de terminar esa tarea de Negocios? El examen no se va a aprobar solo. Mueve un dedo o asume las consecuencias." — Damián
 
-## Getting Started
+Damián no es el típico asistente aburrido. Es una aplicación de organización personal diseñada con una personalidad audaz y sarcástica que no tiene miedo de decirte cuándo estás procrastinando. Mezcla la gestión de tareas con una interfaz estética y una IA interactiva.
 
-First, run the development server:
+Características Principales
+Chatbot con Personalidad: Un asistente inteligente (Damián) que interactúa contigo, te motiva (a su manera) y te ayuda a gestionar tu día.
 
-```bash
+Gestión de Tareas Inteligente: Lista de tareas completas y persistencia de datos.
+
+Organización por Materias: Módulo especializado para estudiantes donde puedes organizar tus cursos con una paleta de colores pastel (Lavanda, Menta, Rosa, etc.).
+
+Filtros Temporales: Visualización de carga de trabajo por día, semana, mes y año.
+
+Persistencia Local: Tus datos se guardan en el navegador (localStorage), así que nada se pierde al cerrar la pestaña.
+
+Estética "Aesthetic": Interfaz minimalista, limpia y visualmente relajante.
+
+Tecnologías Utilizadas
+Este proyecto fue construido utilizando herramientas modernas de desarrollo web:
+
+Frontend: React.js & Next.js
+
+Estilos: Tailwind CSS (para un diseño responsivo y minimalista)
+
+Manejo de Fechas: date-fns
+
+Almacenamiento: Browser LocalStorage
+
+Guía de Estilo
+El proyecto sigue una línea visual minimalista basada en:
+
+Bordes redondeados y sombras suaves.
+
+Tipografía clara y espacios amplios.
+
+Paleta Pastel: Utilizada para diferenciar materias y estados emocionales de Damián.
+
+Cómo ejecutarlo localmente
+Clona el repositorio:
+
+Bash
+git clone https://github.com/Paola1390/Damian-Project.git
+Instala las dependencias:
+
+Bash
+npm install
+Inicia el servidor de desarrollo:
+
+Bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+¿Cómo editarlo en GitHub?
+Ve a tu repositorio en el navegador.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Haz clic en el archivo que dice README.md.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Haz clic en el icono del lápiz (Edit).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Borra lo que haya y pega este texto.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Baja hasta el final y dale al botón verde que dice "Commit changes".
